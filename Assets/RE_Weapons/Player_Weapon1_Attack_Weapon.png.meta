@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 6a24999d1389a0748ac615911287f6d9
+timeCreated: 1459171496
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_Weapon1_Attack_Weapon_0
+    21300002: Player_Weapon1_Attack_Weapon_1
+    21300004: Player_Weapon1_Attack_Weapon_2
+    21300006: Player_Weapon1_Attack_Weapon_3
+    21300008: Player_Weapon1_Attack_Weapon_4
+    21300010: Player_Weapon1_Attack_Weapon_5
+    21300012: Player_Weapon1_Attack_Weapon_6
+    21300014: Player_Weapon1_Attack_Weapon_7
+    21300016: Player_Weapon1_Attack_Weapon_8
+    21300018: Player_Weapon1_Attack_Weapon_9
+    21300020: Player_Weapon1_Attack_Weapon_10
+    21300022: Player_Weapon1_Attack_Weapon_11
+    21300024: Player_Weapon1_Attack_Weapon_12
+    21300026: Player_Weapon1_Attack_Weapon_13
+    21300028: Player_Weapon1_Attack_Weapon_14
+    21300030: Player_Weapon1_Attack_Weapon_15
+    21300032: Player_Weapon1_Attack_Weapon_16
+    21300034: Player_Weapon1_Attack_Weapon_17
+    21300036: Player_Weapon1_Attack_Weapon_18
+    21300038: Player_Weapon1_Attack_Weapon_19
+    21300040: Player_Weapon1_Attack_Weapon_20
+    21300042: Player_Weapon1_Attack_Weapon_21
+    21300044: Player_Weapon1_Attack_Weapon_22
+    21300046: Player_Weapon1_Attack_Weapon_23
+    21300048: Player_Weapon1_Attack_Weapon_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player_Weapon1_Attack_Weapon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1133
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.14, y: 94.599976}
+        - {x: -71.14, y: 78.599976}
+        - {x: -71.14, y: 63.599976}
+        - {x: 141.86, y: 63.599976}
+        - {x: 146.86, y: 68.599976}
+        - {x: 146.86, y: 94.599976}
+    - name: Player_Weapon1_Attack_Weapon_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1133
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.140015, y: 94.599976}
+        - {x: -76.140015, y: 76.599976}
+        - {x: -76.140015, y: 62.599976}
+        - {x: 134.85999, y: 62.599976}
+        - {x: 141.85999, y: 73.599976}
+        - {x: 141.85999, y: 94.599976}
+    - name: Player_Weapon1_Attack_Weapon_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1133
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108.859985, y: 93.599976}
+        - {x: -45.140015, y: 93.599976}
+        - {x: -81.140015, y: 75.599976}
+        - {x: -81.140015, y: 65.599976}
+        - {x: -69.140015, y: 62.599976}
+        - {x: 97.859985, y: 62.599976}
+        - {x: 127.859985, y: 65.599976}
+        - {x: 136.85999, y: 76.599976}
+        - {x: 136.85999, y: 84.599976}
+    - name: Player_Weapon1_Attack_Weapon_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1133
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.140015, y: 93.599976}
+        - {x: -86.140015, y: 78.599976}
+        - {x: -86.140015, y: 63.599976}
+        - {x: -82.140015, y: 62.599976}
+        - {x: 126.859985, y: 62.599976}
+        - {x: 131.85999, y: 66.599976}
+        - {x: 131.85999, y: 93.599976}
+    - name: Player_Weapon1_Attack_Weapon_4
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1133
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.140015, y: 82.599976}
+        - {x: -53.140015, y: 67.599976}
+        - {x: -53.140015, y: 59.599976}
+        - {x: -50.140015, y: 54.599976}
+        - {x: -16.140015, y: 51.599976}
+        - {x: 163.85999, y: 51.599976}
+        - {x: 164.85999, y: 52.599976}
+        - {x: 164.85999, y: 82.599976}
+    - name: Player_Weapon1_Attack_Weapon_5
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1133
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.140015, y: 86.599976}
+        - {x: -39.140015, y: 76.599976}
+        - {x: -39.140015, y: 54.599976}
+        - {x: -22.140015, y: 49.599976}
+        - {x: 171.85999, y: 49.599976}
+        - {x: 178.85999, y: 53.599976}
+        - {x: 178.85999, y: 75.599976}
+        - {x: 161.85999, y: 86.599976}
+    - name: Player_Weapon1_Attack_Weapon_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.86, y: 87.599976}
+        - {x: 92.86, y: 87.599976}
+        - {x: 82.86, y: 81.599976}
+        - {x: 84.86, y: 77.599976}
+        - {x: 13.860001, y: 83.599976}
+        - {x: -26.14, y: 66.599976}
+        - {x: -26.14, y: 54.599976}
+        - {x: 2.8600006, y: 48.599976}
+        - {x: 163.86, y: 48.599976}
+        - {x: 175.86, y: 49.599976}
+        - {x: 192.86, y: 65.599976}
+        - {x: 192.86, y: 68.599976}
+        - {x: 190.86, y: 72.599976}
+    - name: Player_Weapon1_Attack_Weapon_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 896
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.140015, y: 84.599976}
+        - {x: -22.140015, y: 64.599976}
+        - {x: -22.140015, y: 57.599976}
+        - {x: -12.140015, y: 49.599976}
+        - {x: 200.85999, y: 49.599976}
+        - {x: 200.85999, y: 84.599976}
+    - name: Player_Weapon1_Attack_Weapon_8
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 896
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.8599854, y: 82.599976}
+        - {x: -26.140015, y: 65.599976}
+        - {x: -26.140015, y: 52.599976}
+        - {x: -22.140015, y: 51.599976}
+        - {x: 197.85999, y: 51.599976}
+        - {x: 202.85999, y: 54.599976}
+        - {x: 202.85999, y: 73.599976}
+        - {x: 171.85999, y: 82.599976}
+    - name: Player_Weapon1_Attack_Weapon_9
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 896
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.8599854, y: 82.599976}
+        - {x: -26.140015, y: 66.599976}
+        - {x: -26.140015, y: 58.599976}
+        - {x: -13.140015, y: 51.599976}
+        - {x: 136.85999, y: 51.599976}
+        - {x: 183.85999, y: 52.599976}
+        - {x: 192.85999, y: 60.599976}
+        - {x: 192.85999, y: 74.599976}
+        - {x: 187.85999, y: 82.599976}
+    - name: Player_Weapon1_Attack_Weapon_10
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 896
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189.85999, y: 71.599976}
+        - {x: 170.85999, y: 76.599976}
+        - {x: 152.85999, y: 81.599976}
+        - {x: 144.85999, y: 82.599976}
+        - {x: 3.8599854, y: 82.599976}
+        - {x: -26.140015, y: 66.599976}
+        - {x: -26.140015, y: 54.599976}
+        - {x: -15.140015, y: 51.599976}
+        - {x: 165.85999, y: 51.599976}
+        - {x: 191.85999, y: 54.599976}
+        - {x: 192.85999, y: 59.599976}
+        - {x: 192.85999, y: 70.599976}
+    - name: Player_Weapon1_Attack_Weapon_11
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 896
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.140015, y: 82.599976}
+        - {x: -26.140015, y: 66.599976}
+        - {x: -26.140015, y: 51.599976}
+        - {x: 192.85999, y: 51.599976}
+        - {x: 192.85999, y: 82.599976}
+    - name: Player_Weapon1_Attack_Weapon_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 659
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.139999, y: 82.599976}
+        - {x: -26.14, y: 66.599976}
+        - {x: -26.14, y: 58.599976}
+        - {x: -17.14, y: 51.599976}
+        - {x: 177.86, y: 51.599976}
+        - {x: 192.86, y: 64.599976}
+        - {x: 192.86, y: 82.599976}
+    - name: Player_Weapon1_Attack_Weapon_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 659
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.140015, y: 82.599976}
+        - {x: -26.140015, y: 65.599976}
+        - {x: -26.140015, y: 56.599976}
+        - {x: -14.140015, y: 51.599976}
+        - {x: 116.859985, y: 51.599976}
+        - {x: 177.85999, y: 52.599976}
+        - {x: 192.85999, y: 65.599976}
+        - {x: 192.85999, y: 82.599976}
+    - name: Player_Weapon1_Attack_Weapon_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 659
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.140015, y: 82.599976}
+        - {x: -26.140015, y: 65.599976}
+        - {x: -26.140015, y: 56.599976}
+        - {x: -14.140015, y: 51.599976}
+        - {x: 116.859985, y: 51.599976}
+        - {x: 177.85999, y: 52.599976}
+        - {x: 192.85999, y: 65.599976}
+        - {x: 192.85999, y: 82.599976}
+    - name: Player_Weapon1_Attack_Weapon_15
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 659
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.140015, y: 82.599976}
+        - {x: -22.140015, y: 71.599976}
+        - {x: -22.140015, y: 53.599976}
+        - {x: -15.140015, y: 51.599976}
+        - {x: 196.85999, y: 51.599976}
+        - {x: 196.85999, y: 82.599976}
+    - name: Player_Weapon1_Attack_Weapon_16
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 659
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 187.85999, y: 74.599976}
+        - {x: 141.85999, y: 82.599976}
+        - {x: -5.1400146, y: 82.599976}
+        - {x: -29.140015, y: 69.599976}
+        - {x: -29.140015, y: 51.599976}
+        - {x: 180.85999, y: 51.599976}
+        - {x: 188.85999, y: 62.599976}
+        - {x: 188.85999, y: 71.599976}
+    - name: Player_Weapon1_Attack_Weapon_17
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 659
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 179.85999, y: 73.599976}
+        - {x: 164.85999, y: 82.599976}
+        - {x: -37.140015, y: 82.599976}
+        - {x: -37.140015, y: 56.599976}
+        - {x: -18.140015, y: 51.599976}
+        - {x: 157.85999, y: 51.599976}
+        - {x: 170.85999, y: 54.599976}
+        - {x: 180.85999, y: 63.599976}
+        - {x: 180.85999, y: 70.599976}
+    - name: Player_Weapon1_Attack_Weapon_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.14, y: 82.600006}
+        - {x: -45.14, y: 66.600006}
+        - {x: -45.14, y: 51.600006}
+        - {x: 172.86, y: 51.600006}
+        - {x: 172.86, y: 82.600006}
+    - name: Player_Weapon1_Attack_Weapon_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 422
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164.85999, y: 82.600006}
+        - {x: -41.140015, y: 82.600006}
+        - {x: -53.140015, y: 67.600006}
+        - {x: -53.140015, y: 59.600006}
+        - {x: -50.140015, y: 54.600006}
+        - {x: -16.140015, y: 51.600006}
+        - {x: 164.85999, y: 51.600006}
+    - name: Player_Weapon1_Attack_Weapon_20
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 422
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.140015, y: 84.600006}
+        - {x: -56.140015, y: 53.600006}
+        - {x: 142.85999, y: 53.600006}
+        - {x: 162.85999, y: 58.600006}
+        - {x: 162.85999, y: 84.600006}
+    - name: Player_Weapon1_Attack_Weapon_21
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 422
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.140015, y: 86.600006}
+        - {x: -59.140015, y: 70.600006}
+        - {x: -59.140015, y: 56.600006}
+        - {x: -57.140015, y: 54.600006}
+        - {x: 158.85999, y: 54.600006}
+        - {x: 158.85999, y: 86.600006}
+    - name: Player_Weapon1_Attack_Weapon_22
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 422
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.140015, y: 88.600006}
+        - {x: -62.140015, y: 72.600006}
+        - {x: -62.140015, y: 58.600006}
+        - {x: -60.140015, y: 56.600006}
+        - {x: 155.85999, y: 56.600006}
+        - {x: 155.85999, y: 88.600006}
+    - name: Player_Weapon1_Attack_Weapon_23
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 422
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.140015, y: 89.600006}
+        - {x: -65.140015, y: 76.600006}
+        - {x: -65.140015, y: 63.600006}
+        - {x: -54.140015, y: 58.600006}
+        - {x: 145.85999, y: 58.600006}
+        - {x: 153.85999, y: 71.600006}
+        - {x: 153.85999, y: 89.600006}
+    - name: Player_Weapon1_Attack_Weapon_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.31, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121.86, y: 91.600006}
+        - {x: -68.14, y: 91.600006}
+        - {x: -68.14, y: 66.600006}
+        - {x: -43.14, y: 60.600006}
+        - {x: 135.86, y: 60.600006}
+        - {x: 150.86, y: 73.600006}
+        - {x: 150.86, y: 79.600006}
+        - {x: 149.86, y: 82.600006}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

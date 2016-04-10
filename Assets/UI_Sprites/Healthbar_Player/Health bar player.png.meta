@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: bd853c037eb83ae4cbd9f7ec8249f8d2
+timeCreated: 1459723258
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Health bar player_0
+    21300002: Health bar player_1
+    21300004: Health bar player_2
+    21300006: Health bar player_3
+    21300008: Health bar player_4
+    21300010: Health bar player_5
+    21300012: Health bar player_6
+    21300014: Health bar player_7
+    21300016: Health bar player_8
+    21300018: Health bar player_9
+    21300020: Health bar player_10
+    21300022: Health bar player_11
+    21300024: Health bar player_12
+    21300026: Health bar player_13
+    21300028: Health bar player_14
+    21300030: Health bar player_15
+    21300032: Health bar player_16
+    21300034: Health bar player_17
+    21300036: Health bar player_18
+    21300038: Health bar player_19
+    21300040: Health bar player_20
+    21300042: Health bar player_21
+    21300044: Health bar player_22
+    21300046: Health bar player_23
+    21300048: Health bar player_24
+    21300050: Health bar player_25
+    21300052: Health bar player_26
+    21300054: Health bar player_27
+    21300056: Health bar player_28
+    21300058: Health bar player_29
+    21300060: Health bar player_30
+    21300062: Health bar player_31
+    21300064: Health bar player_32
+    21300066: Health bar player_33
+    21300068: Health bar player_34
+    21300070: Health bar player_35
+    21300072: Health bar player_36
+    21300074: Health bar player_37
+    21300076: Health bar player_38
+    21300078: Health bar player_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Health bar player_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1669
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1669
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1669
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1669
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1669
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1669
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1669
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1669
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1290
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1290
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1290
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1290
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_12
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1290
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1290
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1290
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_15
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1290
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 911
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 911
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 911
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 911
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 911
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 911
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 911
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 911
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 532
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 532
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 532
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 532
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 532
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 532
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_30
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 532
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_31
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 532
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 153
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 153
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 153
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 153
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 153
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_37
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 153
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_38
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 153
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    - name: Health bar player_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 153
+        width: 47
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 185}
+        - {x: -23.5, y: -185}
+        - {x: 23.5, y: -185}
+        - {x: 23.5, y: 185}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

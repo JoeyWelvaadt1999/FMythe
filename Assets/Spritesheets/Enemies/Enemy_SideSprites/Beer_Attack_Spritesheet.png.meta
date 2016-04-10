@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: dc7795af2d2678147ac5d1cedf61375d
+timeCreated: 1457347476
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Beer_Attack_Spritesheet_0
+    21300002: Beer_Attack_Spritesheet_1
+    21300004: Beer_Attack_Spritesheet_2
+    21300006: Beer_Attack_Spritesheet_3
+    21300008: Beer_Attack_Spritesheet_4
+    21300010: Beer_Attack_Spritesheet_5
+    21300012: Beer_Attack_Spritesheet_6
+    21300014: Beer_Attack_Spritesheet_7
+    21300016: Beer_Attack_Spritesheet_8
+    21300018: Beer_Attack_Spritesheet_9
+    21300020: Beer_Attack_Spritesheet_10
+    21300022: Beer_Attack_Spritesheet_11
+    21300024: Beer_Attack_Spritesheet_12
+    21300026: Beer_Attack_Spritesheet_13
+    21300028: Beer_Attack_Spritesheet_14
+    21300030: Beer_Attack_Spritesheet_15
+    21300032: Beer_Attack_Spritesheet_16
+    21300034: Beer_Attack_Spritesheet_17
+    21300036: Beer_Attack_Spritesheet_18
+    21300038: Beer_Attack_Spritesheet_19
+    21300040: Beer_Attack_Spritesheet_20
+    21300042: Beer_Attack_Spritesheet_21
+    21300044: Beer_Attack_Spritesheet_22
+    21300046: Beer_Attack_Spritesheet_23
+    21300048: Beer_Attack_Spritesheet_24
+    21300050: Beer_Attack_Spritesheet_25
+    21300052: Beer_Attack_Spritesheet_26
+    21300054: Beer_Attack_Spritesheet_27
+    21300056: Beer_Attack_Spritesheet_28
+    21300058: Beer_Attack_Spritesheet_29
+    21300060: Beer_Attack_Spritesheet_30
+    21300062: Beer_Attack_Spritesheet_31
+    21300064: Beer_Attack_Spritesheet_32
+    21300066: Beer_Attack_Spritesheet_33
+    21300068: Beer_Attack_Spritesheet_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Beer_Attack_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3371
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3371
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3371
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 3371
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 3371
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 3371
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 3371
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2696
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2696
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2696
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 2696
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2696
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2696
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 2696
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2021
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2021
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2021
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 2021
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2021
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2021
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 2021
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1346
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1346
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1346
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1346
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1346
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 1346
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 1346
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 671
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 671
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 671
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 671
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 671
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beer_Attack_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 671
+        width: 715
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

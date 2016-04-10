@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: f842ad3c8f349f840b95a8797a8be3dd
+timeCreated: 1459721674
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Health Bar enemy_0
+    21300002: Health Bar enemy_1
+    21300004: Health Bar enemy_2
+    21300006: Health Bar enemy_3
+    21300008: Health Bar enemy_4
+    21300010: Health Bar enemy_5
+    21300012: Health Bar enemy_6
+    21300014: Health Bar enemy_7
+    21300016: Health Bar enemy_8
+    21300018: Health Bar enemy_9
+    21300020: Health Bar enemy_10
+    21300022: Health Bar enemy_11
+    21300024: Health Bar enemy_12
+    21300026: Health Bar enemy_13
+    21300028: Health Bar enemy_14
+    21300030: Health Bar enemy_15
+    21300032: Health Bar enemy_16
+    21300034: Health Bar enemy_17
+    21300036: Health Bar enemy_18
+    21300038: Health Bar enemy_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Health Bar enemy_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 944
+        width: 393
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.5, y: 36}
+        - {x: -145.5, y: 35}
+        - {x: -146.5, y: 36}
+        - {x: -190.5, y: 36}
+        - {x: -196.5, y: 28}
+        - {x: -196.5, y: -32}
+        - {x: -192.5, y: -36}
+        - {x: 196.5, y: -36}
+        - {x: 196.5, y: 30}
+        - {x: 187.5, y: 36}
+    - name: Health Bar enemy_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 944
+        width: 392
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -185, y: 36}
+        - {x: -196, y: 26}
+        - {x: -196, y: -31}
+        - {x: -184, y: -36}
+        - {x: 191, y: -36}
+        - {x: 196, y: -35}
+        - {x: 196, y: 30}
+        - {x: 187, y: 36}
+    - name: Health Bar enemy_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 863
+        width: 393
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189.5, y: 35}
+        - {x: -193.5, y: 35}
+        - {x: -196.5, y: 30}
+        - {x: -196.5, y: -30}
+        - {x: -184.5, y: -35}
+        - {x: 192.5, y: -35}
+        - {x: 196.5, y: -34}
+        - {x: 196.5, y: 31}
+    - name: Health Bar enemy_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 863
+        width: 394
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126, y: 35}
+        - {x: -150, y: 32}
+        - {x: -151, y: 35}
+        - {x: -192, y: 35}
+        - {x: -197, y: 33}
+        - {x: -197, y: -30}
+        - {x: -185, y: -35}
+        - {x: 197, y: -35}
+        - {x: 197, y: 33}
+        - {x: 195, y: 35}
+    - name: Health Bar enemy_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 782
+        width: 393
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189.5, y: 35}
+        - {x: -193.5, y: 35}
+        - {x: -196.5, y: 30}
+        - {x: -196.5, y: -30}
+        - {x: -184.5, y: -35}
+        - {x: 192.5, y: -35}
+        - {x: 196.5, y: -34}
+        - {x: 196.5, y: 31}
+    - name: Health Bar enemy_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 782
+        width: 392
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191, y: 35}
+        - {x: -196, y: 33}
+        - {x: -196, y: -30}
+        - {x: -184, y: -35}
+        - {x: 191, y: -35}
+        - {x: 196, y: -34}
+        - {x: 196, y: 35}
+    - name: Health Bar enemy_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 700
+        width: 393
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191.5, y: 36}
+        - {x: -196.5, y: 29}
+        - {x: -196.5, y: -28}
+        - {x: -193.5, y: -36}
+        - {x: 187.5, y: -36}
+        - {x: 196.5, y: -32}
+        - {x: 196.5, y: 32}
+        - {x: 190.5, y: 36}
+    - name: Health Bar enemy_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 700
+        width: 392
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -187, y: 36}
+        - {x: -196, y: 27}
+        - {x: -196, y: -30}
+        - {x: -182, y: -36}
+        - {x: 187, y: -36}
+        - {x: 196, y: -32}
+        - {x: 196, y: 36}
+    - name: Health Bar enemy_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 620
+        width: 393
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.5, y: 36}
+        - {x: -145.5, y: 35}
+        - {x: -146.5, y: 36}
+        - {x: -190.5, y: 36}
+        - {x: -196.5, y: 28}
+        - {x: -196.5, y: -32}
+        - {x: -192.5, y: -36}
+        - {x: 196.5, y: -36}
+        - {x: 196.5, y: 30}
+        - {x: 187.5, y: 36}
+    - name: Health Bar enemy_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 620
+        width: 392
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -185, y: 36}
+        - {x: -196, y: 26}
+        - {x: -196, y: -31}
+        - {x: -184, y: -36}
+        - {x: 191, y: -36}
+        - {x: 196, y: -35}
+        - {x: 196, y: 30}
+        - {x: 187, y: 36}
+    - name: Health Bar enemy_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 539
+        width: 393
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189.5, y: 35}
+        - {x: -193.5, y: 35}
+        - {x: -196.5, y: 30}
+        - {x: -196.5, y: -30}
+        - {x: -184.5, y: -35}
+        - {x: 192.5, y: -35}
+        - {x: 196.5, y: -34}
+        - {x: 196.5, y: 31}
+    - name: Health Bar enemy_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 539
+        width: 394
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126, y: 35}
+        - {x: -150, y: 32}
+        - {x: -151, y: 35}
+        - {x: -192, y: 35}
+        - {x: -197, y: 33}
+        - {x: -197, y: -30}
+        - {x: -185, y: -35}
+        - {x: 197, y: -35}
+        - {x: 197, y: 33}
+        - {x: 195, y: 35}
+    - name: Health Bar enemy_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 458
+        width: 393
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189.5, y: 35}
+        - {x: -193.5, y: 35}
+        - {x: -196.5, y: 30}
+        - {x: -196.5, y: -30}
+        - {x: -184.5, y: -35}
+        - {x: 192.5, y: -35}
+        - {x: 196.5, y: -34}
+        - {x: 196.5, y: 31}
+    - name: Health Bar enemy_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 458
+        width: 392
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191, y: 35}
+        - {x: -196, y: 33}
+        - {x: -196, y: -30}
+        - {x: -184, y: -35}
+        - {x: 191, y: -35}
+        - {x: 196, y: -34}
+        - {x: 196, y: 35}
+    - name: Health Bar enemy_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 376
+        width: 393
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -192.5, y: 36}
+        - {x: -196.5, y: 33}
+        - {x: -196.5, y: -28}
+        - {x: -194.5, y: -36}
+        - {x: 187.5, y: -36}
+        - {x: 196.5, y: -32}
+        - {x: 196.5, y: 32}
+        - {x: 190.5, y: 36}
+    - name: Health Bar enemy_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 376
+        width: 392
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -187, y: 36}
+        - {x: -196, y: 27}
+        - {x: -196, y: -30}
+        - {x: -182, y: -36}
+        - {x: 187, y: -36}
+        - {x: 196, y: -32}
+        - {x: 196, y: 36}
+    - name: Health Bar enemy_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 296
+        width: 393
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.5, y: 36}
+        - {x: -145.5, y: 35}
+        - {x: -146.5, y: 36}
+        - {x: -190.5, y: 36}
+        - {x: -196.5, y: 28}
+        - {x: -196.5, y: -32}
+        - {x: -192.5, y: -36}
+        - {x: 196.5, y: -36}
+        - {x: 196.5, y: 30}
+        - {x: 187.5, y: 36}
+    - name: Health Bar enemy_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 296
+        width: 392
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -185, y: 36}
+        - {x: -196, y: 26}
+        - {x: -196, y: -31}
+        - {x: -184, y: -36}
+        - {x: 191, y: -36}
+        - {x: 196, y: -35}
+        - {x: 196, y: 30}
+        - {x: 187, y: 36}
+    - name: Health Bar enemy_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 215
+        width: 393
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189.5, y: 35}
+        - {x: -193.5, y: 35}
+        - {x: -196.5, y: 30}
+        - {x: -196.5, y: -30}
+        - {x: -184.5, y: -35}
+        - {x: 192.5, y: -35}
+        - {x: 196.5, y: -34}
+        - {x: 196.5, y: 31}
+    - name: Health Bar enemy_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 215
+        width: 394
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126, y: 35}
+        - {x: -150, y: 32}
+        - {x: -151, y: 35}
+        - {x: -192, y: 35}
+        - {x: -197, y: 33}
+        - {x: -197, y: -30}
+        - {x: -185, y: -35}
+        - {x: 197, y: -35}
+        - {x: 197, y: 33}
+        - {x: 195, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
